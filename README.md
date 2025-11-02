@@ -1,45 +1,58 @@
-# 💫 Hi 👋, I'm Anasse Lamnouer
-**A passionate Developer | Web & Application Developer from Morocco**
+<h1 align="center">Salut 👋, je suis Anasse Lamnouer</h1>
+<h3 align="center">💻 Développeur Full Stack & Étudiant en Informatique</h3>
 
-📧 **Email:** [ton.email@example.com](mailto:ton.email@example.com) — For Collaboration/Projects or Anything Else. 😊
-
-- 🔭 **I’m currently working on:** Web & mobile applications (Laravel, Flutter, PHP, JS)
-- 🌱 **I’m currently learning:** Advanced Laravel, Flutter, and DevOps basics
-- 👯 **I’m looking to collaborate on:** Innovative web/mobile projects
-- 🤔 **I’m looking for help with:** Complex backend or API integrations
-- 💬 **Ask me about:** Web development, Laravel, Flutter, PHP, JS
-- 📫 **How to reach me:** [ton.email@example.com](mailto:ton.email@example.com)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I love creating digital solutions that simplify life
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anasselamnouer&label=Visiteurs&color=0e75b6&style=flat" alt="anasselamnouer" />
+  <a href="https://github.com/anasselamnouer?tab=followers"><img src="https://img.shields.io/github/followers/anasselamnouer?label=Followers&style=social" alt="followers"/></a>
+</p>
 
 ---
 
-## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasse-lamnouer)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/anasse-lamnouer)  
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/)  
+### 🚀 À propos de moi
+- 🎓 Étudiant en **Développement Informatique**  
+- 🌐 Créateur du projet [Careo](https://github.com/anasselamnouer/Careo) – plateforme de **location de voitures et vente de pièces détachées**  
+- 💡 Passionné par **Laravel**, **React**, **Flutter**, et les **API RESTful**  
+- 🌱 Actuellement en train d’apprendre : **Next.js** & **DevOps (Docker, CI/CD)**  
+- 📫 Contact : **anasse.lamnouer@gmail.com**
 
 ---
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%23000f0f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Compétences & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,bootstrap,mysql,git,github,vscode,wordpress,flutter" />
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anasse-lamnouer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=anasse-lamnouer&theme=dark&hide_border=false)
+### 📊 Mes Statistiques GitHub
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=anasselamnouer&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasselamnouer&theme=tokyonight" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎧 Spotify en direct
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zgf4yzo7e44vkyfb3p4gz3fdv4&cover_image=true&theme=novatorem" alt="Spotify" />
+</p>
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+---
+
+### 🐍 Activité GitHub
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anasselamnouer/anasselamnouer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📫 Me retrouver sur
+<p align="center">
+  <a href="https://www.linkedin.com/in/anasse-lamnouer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:anasse.lamnouer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/anasselamnouer"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+⭐️ *Profil créé avec amour par [Anasse Lamnouer](https://github.com/anasselamnouer)*  
