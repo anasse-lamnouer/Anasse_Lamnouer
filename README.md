@@ -12,7 +12,7 @@
 - 🎓 Étudiant en **Développement Informatique**  
 - 🌐 Créateur du projet [Careo](https://github.com/anasselamnouer/Careo) – plateforme de **location de voitures et vente de pièces détachées**  
 - 💡 Passionné par **Laravel**, **React**, **Flutter**, et les **API RESTful**  
-- 🌱 Actuellement en train d’apprendre : **Next.js** & **DevOps (Docker, CI/CD)**  
+- 🌱 Actuellement en train d’apprendre : **Next.js**, **Docker**, **CI/CD**  
 - 📫 Contact : **anasse.lamnouer@gmail.com**
 
 ---
@@ -26,8 +26,8 @@
 
 ### 📊 Mes Statistiques GitHub
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=anasselamnouer&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasselamnouer&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=anasselamnouer&show_icons=true&theme=radical&count_private=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasselamnouer&theme=radical" />
 </p>
 
 ---
@@ -39,14 +39,14 @@
 
 ---
 
-### 🐍 Activité GitHub
+### 🐍 Activité GitHub (Snake animation)
 <p align="center">
   <img src="https://raw.githubusercontent.com/anasselamnouer/anasselamnouer/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 📫 Me retrouver sur
+### 🌐 Me retrouver sur
 <p align="center">
   <a href="https://www.linkedin.com/in/anasse-lamnouer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:anasse.lamnouer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
